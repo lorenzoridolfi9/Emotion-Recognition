@@ -1,6 +1,6 @@
 # Emotion Recognition project
 
-this repository contains project files in the area of natural language processing. In particular, deep learning algorithms have been applied for emotion recognition tasks, which can create classification models that recognize human emotions in text.
+### this repository contains project files in the area of natural language processing. In particular, deep learning algorithms have been applied for emotion recognition tasks, which can create classification models that recognize human emotions in text.
 
 ### Dataset :bar_chart:
 

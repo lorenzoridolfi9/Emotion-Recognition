@@ -7,7 +7,7 @@
 The dataset used is called TwIT and consists of Italian Twitter Dataset for Emotion Recognition with 3108 records and 3 columns. The variables are 'Id', 'Text' and 'Emotion'. Emotion is expressed in the following forms:
 
 
-- | Happiness :smile:
+0 | Accuracy :smile:
 -|-
 1 | Trust     :thumbsup:
 2 | Sadness   :cry:
